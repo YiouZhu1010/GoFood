@@ -1,0 +1,6 @@
+framework module Pods_GoFood {
+  umbrella header "Pods-GoFood-umbrella.h"
+
+  export *
+  module * { export * }
+}
